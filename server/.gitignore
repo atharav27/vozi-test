@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+package-lock.json
+yarn.lock
+
+# Expo specific files
+.expo/
+.expo-shared/
+
+# iOS build files
+ios/
+Pods/
+*.xcworkspace
+*.xcworkspace/
+
+# Android build files
+android/
+*.iml
+.gradle/
+*.keystore
+*.jks
+/build/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Metro bundler cache
+metro-cache/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
